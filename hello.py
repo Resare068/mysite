@@ -4,4 +4,5 @@ class Hello:
 
 
 if __name__ == "__main__":
-    h = Hello()
+    h1 = Hello()
+    h2 = Hello()
